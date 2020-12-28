@@ -1,0 +1,35 @@
+nav a
+{
+	color: white;
+}
+nav a:hover
+{
+	color: white;
+	text-decoration: underline!important;
+}
+.articles
+{
+	padding-top: 200px;
+	display: flex!important;
+	justify-content: space-around;
+}
+
+.btn
+{
+	background-color: #343a40!important;
+	border:1px solid #343a40!important;
+}
+form
+{
+	padding-top: 200px;
+	padding-left: 350px;
+}
+#exampleInputEmail1,#exampleInputPassword1
+{
+	width: 600px!imp
+	width: 600px!important;
+}
+.btnConnexion:hover
+{
+	text-decoration: underline!important;
+}ù
